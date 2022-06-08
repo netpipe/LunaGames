@@ -2,4 +2,4 @@
 LunaGames - repository of scripted games and content for developers
 
 
-CarBlends - cars from revolt sorry the credits for the models did not make it through
+CarBlends - https://re-volt.io/downloads/ the non blender versions with credits to the authors
